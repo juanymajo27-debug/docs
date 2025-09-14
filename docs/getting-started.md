@@ -1,4 +1,4 @@
----
+iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex---
 title: Getting Started
 sidebar_position: 1
 ---
